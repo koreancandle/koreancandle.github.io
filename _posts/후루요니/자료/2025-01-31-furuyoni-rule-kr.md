@@ -6,7 +6,7 @@ tags: [furuyoni]
 visible: 1
 ---
 
-(2025. 01. 19. 기준 비공식 번역)
+(2025. 01. 31. 기준 비공식 번역)
 
 번역 오류 / 문의 사항: koreancandle@discord
 
