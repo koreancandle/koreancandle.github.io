@@ -1,6 +1,6 @@
 ---
 title: 『벚꽃 내리는 시대에 결투를』 통합 규칙
-date: 2025-01-19 02:45:00 +09:00
+date: 2025-01-31 01:30:00 +09:00
 categories: [후루요니, 자료]
 tags: [furuyoni]
 visible: 1
@@ -12,7 +12,7 @@ visible: 1
 
 > 이 규칙서는 공식 번역이 아닙니다!
 > 
-> 유저 개인의 비공식 번역으로, 대부분의 내용과 구성은 코리아보드게임즈에서 번역·제작한 [9-2시즌 규칙서](https://github.com/koreancandle/koreancandle.github.io/blob/main/assets/files/furuyoni_comprehensive_rule_kr.pdf)를 참고하여 제작했습니다.
+> 유저 개인의 비공식 번역으로, 대부분의 내용과 구성은 코리아보드게임즈에서 번역·제작한 [9-2시즌 규칙서](https://www.koreaboardgames.com/attachment/download?orgFileName=%EB%B2%9A%EA%BD%83%20%EB%82%B4%EB%A6%AC%EB%8A%94%20%EC%8B%9C%EB%8C%80%EC%97%90%20%EA%B2%B0%ED%88%AC%EB%A5%BC_%ED%86%B5%ED%95%A9%20%EA%B7%9C%EC%B9%99%EC%84%9C_web.pdf&filePath=upload/2024-05-09/5CVhceiGKrYq2zWNndEa.pdf)를 참고하여 제작했습니다.
 > 
 > 내용과 표현이 정확하지 않을 수 있으니 일본어로 작성된 [총합룰 문서](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/dl/furuyoni_comprehensive_rule.pdf)도 참고해주세요.
 {: .prompt-info }

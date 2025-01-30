@@ -1,6 +1,6 @@
 ---
 title: 『벚꽃 내리는 시대에 결투를』 FAQ
-date: 2025-01-19 02:45:00 +09:00
+date: 2025-01-30 01:30:00 +09:00
 categories: [후루요니, 자료]
 tags: [furuyoni]
 visible: 1
@@ -12,7 +12,7 @@ visible: 1
 
 > 이 FAQ 문서는 공식 번역이 아닙니다!
 > 
-> 유저 개인의 비공식 번역으로, 대부분의 내용과 구성은 코리아보드게임즈에서 번역·제작한 [8시즌 FAQ](https://github.com/koreancandle/koreancandle.github.io/blob/main/assets/files/furuyoni_faq_kr.pdf)를 참고하여 제작했습니다.
+> 유저 개인의 비공식 번역으로, 대부분의 내용과 구성은 코리아보드게임즈에서 번역·제작한 [8시즌 FAQ](https://www.koreaboardgames.com/attachment/download?orgFileName=%EB%B2%9A%EA%BD%83%20%EB%82%B4%EB%A6%AC%EB%8A%94%20%EC%8B%9C%EB%8C%80%EC%97%90%20%EA%B2%B0%ED%88%AC%EB%A5%BC%20FAQ_230508.pdf&filePath=upload/2024-05-09/z03ZSsaMIhlwb1TVNU5L.pdf)를 참고하여 제작했습니다.
 > 
 > 내용과 표현이 정확하지 않을 수 있으니 일본어로 작성된 [FAQ 페이지](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/faq.html)도 참고해주세요.
 {: .prompt-info }
