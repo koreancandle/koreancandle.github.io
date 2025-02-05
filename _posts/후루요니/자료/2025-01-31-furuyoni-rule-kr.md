@@ -3,7 +3,7 @@ title: 『벚꽃 내리는 시대에 결투를』 통합 규칙
 date: 2025-01-31 01:30:00 +09:00
 categories: [후루요니, 자료]
 tags: [furuyoni]
-visible: 1
+published: true
 ---
 
 (2025. 01. 31. 기준 비공식 번역)
